@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-01-09T05:31:10.836Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-01-09T06:07:23.786Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -131,7 +131,7 @@
       {
         "id": "104145ce-b999-4a00-bc3a-9752822bd7c3",
         "name": "개별바베큐&공용바베큐",
-        "description": "프라이빗한 개별 바베큐부터 함께 즐기는 공용 바베큐까지, 취향에 맞게 즐기는 특별한 밤",
+        "description": "프라이빗한 개별 바베큐부터 함께 즐기는 공용 바베큐까지, \n취향에 맞게 즐기는 특별한 밤",
         "usageGuide": "- 가스그릴 : 30,000원\n- 이용시간 : 15:00~22:00\n- 12~2월 동절기 및 기상 악화시 개별BBQ 폐쇄 가능하며, 공용 BBQ장 대체이용 권장",
         "displayOrder": 1,
         "images": [
@@ -247,8 +247,32 @@
             "isSelected": true
           },
           {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8f06955-912b-409e-ae8a-4c034f4dad9c/main/1767936975590-2odbim9qver.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8f06955-912b-409e-ae8a-4c034f4dad9c/main/1767936975591-ime731j85ib.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8f06955-912b-409e-ae8a-4c034f4dad9c/main/1767858938585-crh6460c5r5.jpeg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8f06955-912b-409e-ae8a-4c034f4dad9c/main/1767936975591-caqnemfccko.jpeg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c8f06955-912b-409e-ae8a-4c034f4dad9c/main/1767936975592-7wxhvhprpwt.jpg",
+            "sortOrder": 6,
             "description": "",
             "isSelected": true
           }
