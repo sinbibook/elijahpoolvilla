@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-01-12T00:49:31.696Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-01-12T01:33:47.380Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -281,6 +281,33 @@
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b23f600f-1486-4db9-ac83-b93e1f36db00/main/1768178780950-8w2c9rg7e6f.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "71ef326b-6f1d-4985-8946-e44f457620c8",
+        "name": "골프연습장",
+        "description": "여유롭게 스윙에 집중할 수 있는 골프연습장",
+        "usageGuide": "[골프연습장] \n- 건물 외부 위치\n- 이용요금 : 무료",
+        "displayOrder": 6,
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/71ef326b-6f1d-4985-8946-e44f457620c8/main/1768181587549-oywqz541a6i.jpeg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/71ef326b-6f1d-4985-8946-e44f457620c8/main/1768181587549-d3kh0b1jwmv.jpeg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/71ef326b-6f1d-4985-8946-e44f457620c8/main/1768181587549-okhd4hihe.jpeg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
