@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-01-09T06:51:21.885Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-01-12T00:19:11.226Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -593,7 +593,7 @@
       "id": "821dbb54-f658-4e90-8759-f541c4f15edf",
       "name": "풀빌라 프리미엄 1 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 165,
       "baseOccupancy": 4,
@@ -837,7 +837,7 @@
       "id": "3ba48f96-0a8e-4e84-828c-c9503be2f0b2",
       "name": "풀빌라 프리미엄 2 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 165,
       "baseOccupancy": 4,
@@ -1074,7 +1074,7 @@
       "id": "196520bc-d33f-45b7-8593-6d22f59fc706",
       "name": "풀빌라 프리미엄 3 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 165,
       "baseOccupancy": 4,
@@ -1325,7 +1325,7 @@
       "id": "17267bb1-03db-4fd8-b925-a27b6641839f",
       "name": "풀빌라 프리미엄 4 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 165,
       "baseOccupancy": 4,
@@ -1569,7 +1569,7 @@
       "id": "96efbc38-95e0-47e9-9b4f-4d8798ff9fc7",
       "name": "풀빌라 그랜드 1 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 198,
       "baseOccupancy": 5,
@@ -1863,7 +1863,7 @@
       "id": "d94b51eb-ef4e-493b-a605-e5a14db92a59",
       "name": "풀빌라 그랜드 2 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 198,
       "baseOccupancy": 5,
@@ -2143,7 +2143,7 @@
       "id": "0ad1b810-4724-4505-af4c-3106b8b82ce0",
       "name": "풀빌라 그랜드 3 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 198,
       "baseOccupancy": 5,
@@ -2423,7 +2423,7 @@
       "id": "d043e8a3-730d-42d1-b287-9617dff0f1ef",
       "name": "풀빌라 그랜드 4 (VIP동 랜덤배정)",
       "description": "\n",
-      "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
+      "roomInfo": "독채 (개별수영장,테라스)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "group": null,
       "size": 198,
       "baseOccupancy": 5,
@@ -2799,8 +2799,8 @@
                 "title": "머무는 순간이 힐링",
                 "images": [
                   {
-                    "id": "9af36316-b35f-4a0f-bc66-8531fc97ae6c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_closing/1767923750262-ivkzmla9vd.jpg",
+                    "id": "997e9a79-26bb-4a55-a645-8639ed1ce695",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_closing/1767942634957-tcebehiuw2.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -2847,48 +2847,48 @@
                     "isSelected": true
                   }
                 ],
-                "description": "수영하며 바라보는 수평선, 그 자체가 힐링되는 순간"
+                "description": "수영하며 바라보는 오션뷰, 그 자체가 힐링되는 순간"
               },
               "gallery": {
-                "title": "모두가 즐기는 부대시설",
+                "title": "프리미엄 침구/어메니티 제공",
                 "images": [
                   {
-                    "id": "12fa1ab3-458c-401a-a649-ffbc69799e8a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767923108896-zds7p8x11cl.jpeg",
+                    "id": "7ebbb304-8f58-4b04-ac34-fa46ed9ec355",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-0by2oi7g1bd5.jpg",
                     "sortOrder": 0,
-                    "description": "모래놀이터",
+                    "description": "Oceanvies",
                     "isSelected": true
                   },
                   {
-                    "id": "c7b5dae5-3756-46f5-8bf9-78f4d9143790",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767923108896-y35n0uutpr.jpg",
+                    "id": "dcf74c3a-21bb-40f2-8001-2c5b85f26aaa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-9qowde50sif.jpeg",
                     "sortOrder": 1,
-                    "description": "편의점",
+                    "description": "Bath",
                     "isSelected": true
                   },
                   {
-                    "id": "0306994a-02c3-4ae4-9e3c-3bc30ef779ae",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767923108896-80vr9rv8gcl.jpg",
+                    "id": "4a9f913d-1bfa-47c5-bcde-fe28c0b932d8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-xeopxn3ww39.jpg",
                     "sortOrder": 2,
-                    "description": "공용수영장",
+                    "description": "Amenity",
                     "isSelected": true
                   },
                   {
-                    "id": "fc5eb7c7-5e87-467e-b40d-457939d1465f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767923108896-49g9fba21cg.jpeg",
+                    "id": "4d877741-1c37-4cd5-921b-a890f509d474",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-xyrzmzdll7l.jpeg",
                     "sortOrder": 3,
-                    "description": "골프연습장",
+                    "description": "Bed",
                     "isSelected": true
                   },
                   {
-                    "id": "83b7077f-ecfd-48e8-bb24-a1f2ce595d8a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767923108896-asmfrtmr7cf.jpeg",
+                    "id": "0beb1fa9-9175-476b-bca5-7d9f045e33f3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-1t2i4kpkvvb.jpg",
                     "sortOrder": 4,
-                    "description": "세미나실",
+                    "description": "Spa",
                     "isSelected": true
                   }
                 ],
-                "description": "숙소 안에서 즐기는 모든 순간이 특별해집니다"
+                "description": "잠자리까지 여행의 일부가 되도록,\n침구와 어메니티 하나까지 신중하게 선택했습니다."
               },
               "signature": {
                 "title": "",
@@ -3256,8 +3256,8 @@
           }
         },
         "color": {
-          "primary": "#FFF9F1",
-          "secondary": "#B66E41"
+          "primary": "#F4F3F1",
+          "secondary": "#72644F"
         }
       },
       "popup": {
