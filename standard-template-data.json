@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-01-12T08:41:42.322Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-01-12T08:48:42.548Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -2811,10 +2811,10 @@
                 "title": "객실 미리보기",
                 "images": [
                   {
-                    "id": "7ebbb304-8f58-4b04-ac34-fa46ed9ec355",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-0by2oi7g1bd5.jpg",
+                    "id": "4a9f913d-1bfa-47c5-bcde-fe28c0b932d8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-xeopxn3ww39.jpg",
                     "sortOrder": 0,
-                    "description": "Ocean View",
+                    "description": "Amenity",
                     "isSelected": true
                   },
                   {
@@ -2825,10 +2825,10 @@
                     "isSelected": true
                   },
                   {
-                    "id": "4a9f913d-1bfa-47c5-bcde-fe28c0b932d8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-xeopxn3ww39.jpg",
+                    "id": "7ebbb304-8f58-4b04-ac34-fa46ed9ec355",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-0by2oi7g1bd5.jpg",
                     "sortOrder": 2,
-                    "description": "Amenity",
+                    "description": "Ocean View",
                     "isSelected": true
                   },
                   {
@@ -2839,10 +2839,24 @@
                     "isSelected": true
                   },
                   {
+                    "id": "f31b41e2-19db-4dea-b8d2-cec16ec696f8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1768207617631-xim4j1ofvy.jpeg",
+                    "sortOrder": 4,
+                    "description": "단독풀장",
+                    "isSelected": true
+                  },
+                  {
                     "id": "0beb1fa9-9175-476b-bca5-7d9f045e33f3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-1t2i4kpkvvb.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "Spa",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5e1ab032-6283-47d4-8462-068b2ec16a5b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1768207617631-8cl1kvanq0f.jpeg",
+                    "sortOrder": 6,
+                    "description": "barbeque",
                     "isSelected": true
                   }
                 ],
@@ -3258,6 +3272,7 @@
           "images": []
         }
       ]
-    }
+    },
+    "id": "f92bf8af-9741-45e6-8928-3f694030afc2"
   }
 }
