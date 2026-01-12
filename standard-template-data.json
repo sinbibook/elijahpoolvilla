@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-01-12T08:48:42.548Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-01-12T08:49:53.196Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -2832,30 +2832,16 @@
                     "isSelected": true
                   },
                   {
-                    "id": "4d877741-1c37-4cd5-921b-a890f509d474",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-xyrzmzdll7l.jpeg",
-                    "sortOrder": 3,
-                    "description": "Bed",
-                    "isSelected": true
-                  },
-                  {
                     "id": "f31b41e2-19db-4dea-b8d2-cec16ec696f8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1768207617631-xim4j1ofvy.jpeg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "단독풀장",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "0beb1fa9-9175-476b-bca5-7d9f045e33f3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-1t2i4kpkvvb.jpg",
-                    "sortOrder": 5,
-                    "description": "Spa",
                     "isSelected": true
                   },
                   {
                     "id": "5e1ab032-6283-47d4-8462-068b2ec16a5b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1768207617631-8cl1kvanq0f.jpeg",
-                    "sortOrder": 6,
+                    "sortOrder": 4,
                     "description": "barbeque",
                     "isSelected": true
                   }
