@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-01-12T01:56:32.943Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-01-12T02:01:26.962Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -2787,7 +2787,7 @@
                     "id": "7ebbb304-8f58-4b04-ac34-fa46ed9ec355",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/index_gallery/1767942634957-0by2oi7g1bd5.jpg",
                     "sortOrder": 0,
-                    "description": "Oceanvies",
+                    "description": "Ocean View",
                     "isSelected": true
                   },
                   {
