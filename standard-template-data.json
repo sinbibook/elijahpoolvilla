@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-01-12T08:40:43.966Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-01-12T08:41:42.322Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -231,7 +231,7 @@
         "id": "c8f06955-912b-409e-ae8a-4c034f4dad9c",
         "name": "모래놀이터",
         "description": "자연 속에서 오감으로 놀 수 있는 모래놀이터 운영",
-        "usageGuide": "[야외정원&산책로]\n- 운영시간 : 00:00~24:00\n- 아동 모래놀이터 이용가능\n\n[편의시설 및 서비스]\n- 무료 주차장\n- OTT 서비스 가능(개인 계정 사용)\n- 무료 Wi-Fi\n- 어린이 구명조끼 3벌 대여 무료",
+        "usageGuide": "[야외정원&산책로]\n- 운영시간 : 00:00~24:00\n- 아동 모래놀이터 이용가능",
         "displayOrder": 4,
         "images": [
           {
@@ -308,6 +308,33 @@
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/71ef326b-6f1d-4985-8946-e44f457620c8/main/1768181587549-okhd4hihe.jpeg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "9238252f-dab7-4be2-bf6b-9cdff7240bee",
+        "name": "편의시설 및 서비스",
+        "description": "다양한 편의시설을 제공해드립니다.",
+        "usageGuide": "[편의시설 및 서비스]\n- 무료 주차장\n- OTT 서비스 가능(개인 계정 사용)\n- 무료 Wi-Fi\n- 어린이 구명조끼 3벌 대여 무료",
+        "displayOrder": 7,
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9238252f-dab7-4be2-bf6b-9cdff7240bee/main/1768207210997-gqx2tbkv0f7.png",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9238252f-dab7-4be2-bf6b-9cdff7240bee/main/1768207210996-xpl6pd767ze.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9238252f-dab7-4be2-bf6b-9cdff7240bee/main/1768207210997-jcuclwqb2td.png",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
@@ -2740,7 +2767,7 @@
                 "description": "\n"
               },
               "essence": {
-                "title": "단독 풀장에서 즐기는 오션뷰",
+                "title": "오직 8객실만을 위해 마련된 풀빌라",
                 "images": [
                   {
                     "id": "e1f0417c-2cbb-4035-b281-de1638f13975",
@@ -2781,7 +2808,7 @@
                 "description": "수영하며 바라보는 오션뷰, 그 자체가 힐링되는 순간"
               },
               "gallery": {
-                "title": "프리미엄 침구/어메니티 제공",
+                "title": "객실 미리보기",
                 "images": [
                   {
                     "id": "7ebbb304-8f58-4b04-ac34-fa46ed9ec355",
@@ -2819,7 +2846,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "잠자리까지 여행의 일부가 되도록,\n침구와 어메니티 하나까지 신중하게 선택했습니다."
+                "description": "Room Preview"
               },
               "signature": {
                 "title": "",
@@ -2876,7 +2903,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/main_about/1767924814243-ofubzioymt.jpeg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "5dbe5b94-4753-4675-bf7d-91ca1e855a7c"
                     }
                   ],
                   "blockId": "5dbe5b94-4753-4675-bf7d-91ca1e855a7c",
@@ -2890,7 +2918,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/main_about/1767924814243-dbgrd7vr9qq.jpg",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "4735eddf-6e9f-452c-8810-d71aee437924"
                     }
                   ],
                   "blockId": "4735eddf-6e9f-452c-8810-d71aee437924",
@@ -2904,7 +2933,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/main_about/1767924814243-o1gtl4zaz28.jpg",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "433c07cd-967c-4326-bc4f-fef42db02fd1"
                     }
                   ],
                   "blockId": "433c07cd-967c-4326-bc4f-fef42db02fd1",
@@ -3190,8 +3220,44 @@
       },
       "popup": {
         "popups": []
-      }
-    },
-    "id": "f92bf8af-9741-45e6-8928-3f694030afc2"
+      },
+      "property": {
+        "images": []
+      },
+      "roomtypes": [
+        {
+          "id": "821dbb54-f658-4e90-8759-f541c4f15edf",
+          "images": []
+        },
+        {
+          "id": "3ba48f96-0a8e-4e84-828c-c9503be2f0b2",
+          "images": []
+        },
+        {
+          "id": "196520bc-d33f-45b7-8593-6d22f59fc706",
+          "images": []
+        },
+        {
+          "id": "17267bb1-03db-4fd8-b925-a27b6641839f",
+          "images": []
+        },
+        {
+          "id": "96efbc38-95e0-47e9-9b4f-4d8798ff9fc7",
+          "images": []
+        },
+        {
+          "id": "d94b51eb-ef4e-493b-a605-e5a14db92a59",
+          "images": []
+        },
+        {
+          "id": "0ad1b810-4724-4505-af4c-3106b8b82ce0",
+          "images": []
+        },
+        {
+          "id": "d043e8a3-730d-42d1-b287-9617dff0f1ef",
+          "images": []
+        }
+      ]
+    }
   }
 }
