@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-01-13T06:46:59.188Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-01-13T06:51:12.752Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -2903,7 +2903,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/main_about/1767924814243-ofubzioymt.jpeg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "5dbe5b94-4753-4675-bf7d-91ca1e855a7c"
                     }
                   ],
                   "blockId": "5dbe5b94-4753-4675-bf7d-91ca1e855a7c",
@@ -2917,7 +2918,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/main_about/1767924814243-dbgrd7vr9qq.jpg",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "4735eddf-6e9f-452c-8810-d71aee437924"
                     }
                   ],
                   "blockId": "4735eddf-6e9f-452c-8810-d71aee437924",
@@ -2931,7 +2933,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f92bf8af-9741-45e6-8928-3f694030afc2/main_about/1767924814243-o1gtl4zaz28.jpg",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "433c07cd-967c-4326-bc4f-fef42db02fd1"
                     }
                   ],
                   "blockId": "433c07cd-967c-4326-bc4f-fef42db02fd1",
