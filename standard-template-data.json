@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-01-16T07:11:29.549Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-01-16T07:15:47.580Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -73,32 +73,14 @@
         "displayOrder": 0,
         "images": [
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767844550676-o8sjfcjps4.jpeg",
-            "sortOrder": 0,
-            "description": "수영장뷰",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767926875136-dw06n92r9gj.jpeg",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767926875136-emzzpt8kd2i.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767926875136-emzzpt8kd2i.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767926875136-qlazrgxp97t.jpeg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767926875136-05sn9a1wwox.jpg",
-            "sortOrder": 2,
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767926875136-dw06n92r9gj.jpeg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           },
@@ -109,21 +91,33 @@
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767844550677-owlrhohjg2.jpeg",
-            "sortOrder": 4,
-            "description": "안전한 수심",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767844550677-tdb1ilz18yl.jpg",
+            "sortOrder": 7,
+            "description": "물놀이 후 바베큐이용 가능",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767844550677-b6lq8785ui9.jpeg",
-            "sortOrder": 7,
+            "sortOrder": 6,
             "description": "수영장",
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1767844550677-tdb1ilz18yl.jpg",
-            "sortOrder": 8,
-            "description": "물놀이 후 바베큐이용 가능",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1768547059589-0c4jmftb16bg.jpeg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1768547059589-qr3ssex9zf.jpeg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6bafb70a-6147-402d-8598-7b789abbb0fc/main/1768547059589-dbo9j33pmun.jpeg",
+            "sortOrder": 2,
+            "description": "",
             "isSelected": true
           }
         ]
