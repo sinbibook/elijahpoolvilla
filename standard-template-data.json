@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.49.0",
-    "generatedAt": "2026-03-27T07:01:45.217Z",
+    "version": "1.50.0",
+    "generatedAt": "2026-04-23T05:31:34.407Z",
     "templateType": "full_banner_wipe",
     "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
     "homepageId": "f92bf8af-9741-45e6-8928-3f694030afc2"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입/퇴실 안내]\n - 입실시각: 15시\n - 퇴실시각: 11시\n※ 20시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 레이트 체크아웃 1시간당 100,000원 (현장결제)\n※ 13시이후 체크아웃 1박 요금적용 (현장결제)",
-    "usageGuide": "[펜션 안내 사항]\n1. 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n2. 애완동물은 동반 입실 하실 수 없습니다. \n3. 미성년자는 보호자 동반없이 이용하실수 없습니다.\n4. 모든 객실은 금연이며, 객실 내에서 흡연 시 10만원의 과태료가 부과됩니다.\n5. 화재 예방을 위해 객실 내 직화구이 및 화기 사용금지입니다. (휴대용가스레인지, 버너, 숯, 부탄가스, 양초, 폭죽 등)\n6. 객실 내 취사 가능하지만 냄새가 심하거나, 기름진 음식은 제한됩니다. \n7. 체크인 시 배정 또는 베드타입 미기재 상품은 특정객실과 베드타입을 보장하지 않습니다. \n8. 퇴실시 지정된 장소에 음식물 쓰레기를 비롯한 재활용품, 일반 쓰레기를 배출해 주시기 바랍니다. \n9. 객실에 따라 이미지와 다른 객실로 배정될 수 있습니다.\n10. 체크인 시 신분증 확인이 있을 수 있습니다.\n11. 분실된 물건의 보관은 별도의 요청이 없는 한 3개월 보관하며 그 이후에는 폐기합니다. \n\n[입/퇴실 안내]\n - 입실시각: 15시\n - 퇴실시각: 11시\n※ 20시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 레이트 체크아웃 1시간당 100,000원 (현장결제)\n※ 13시이후 체크아웃 1박 요금적용 (현장결제)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가\n\n[개별바베큐&공용바베큐]\n- 가스그릴 : 30,000원\n- 이용시간 : 15:00~22:00\n- 12~2월 동절기 및 기상 악화시 개별BBQ 폐쇄 가능하며, 공용 BBQ장 대체이용 권장\n\n[전객실 개별풀빌라]\n- 온수비용: 100,000원 (1박기준/현장결제)\n\n[공용 인피니티풀]\n- 이용요금 : 20,000원(1인/현장결제)\n- 이용시간 : 09:30~12:00 / 13:00~일몰시\n- 운영기간 : 개장 5월중~폐정 10월중(계절별 상이)\n- 위치안내 : 리조트 동 앞 야외(성인/어린이/유아개별풀)\n※ 수영복, 수영모, 아쿠아슈즈를 반드시 착용 후 입수하셔야 합니다 (미착용시 입장불가)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.\n\n[사계절 어린이풀&유아풀]\n- 운영기간 : 온수가동은 기온 23도 이하 및 사전예약 시 개별가동 (7~8월 하절기 제외)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.\n\n[무인이마트24편의점&카페]\n- 먹거리, 음료, 생활용품 판매\n- 운영시간 : 평일 09:00~22:00 / 주말 09:00~00:00\n\n[야외정원&산책로]\n- 운영시간 : 00:00~24:00\n\n[세미나실]\n- 제 2,3 세미나실 이용가능 (40석 규모)\n\n[편의시설 및 서비스]\n- 무료 주차장\n- OTT 서비스 가능(개인 계정 사용)\n- 무료 Wi-Fi\n- 어린이 구명조끼 3벌 대여 무료\n\n[승용차 이용시]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n 도로명 주소 : 인천광역시 강화군 화도면 해안남로 2782-18",
+    "usageGuide": "[펜션 안내 사항]\n1. 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n2. 애완동물은 동반 입실 하실 수 없습니다. \n3. 미성년자는 보호자 동반없이 이용하실수 없습니다.\n4. 모든 객실은 금연이며, 객실 내에서 흡연 시 10만원의 과태료가 부과됩니다.\n5. 화재 예방을 위해 객실 내 직화구이 및 화기 사용금지입니다. (휴대용가스레인지, 버너, 숯, 부탄가스, 양초, 폭죽 등)\n6. 객실 내 취사 가능하지만 냄새가 심하거나, 기름진 음식은 제한됩니다. \n7. 체크인 시 배정 또는 베드타입 미기재 상품은 특정객실과 베드타입을 보장하지 않습니다. \n8. 퇴실시 지정된 장소에 음식물 쓰레기를 비롯한 재활용품, 일반 쓰레기를 배출해 주시기 바랍니다. \n9. 객실에 따라 이미지와 다른 객실로 배정될 수 있습니다.\n10. 체크인 시 신분증 확인이 있을 수 있습니다.\n11. 분실된 물건의 보관은 별도의 요청이 없는 한 3개월 보관하며 그 이후에는 폐기합니다. \n\n[입/퇴실 안내]\n - 입실시각: 15시\n - 퇴실시각: 11시\n※ 20시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 레이트 체크아웃 1시간당 100,000원 (현장결제)\n※ 13시이후 체크아웃 1박 요금적용 (현장결제)\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가\n\n[개별바베큐&공용바베큐]\n- 가스그릴 : 30,000원\n- 이용시간 : 15:00~22:00\n- 12~2월 동절기 및 기상 악화시 개별BBQ 폐쇄 가능하며, 공용 BBQ장 대체이용 권장\n\n[전객실 개별풀빌라]\n- 온수비용: 100,000원 (1박기준/현장결제)\n\n[공용 인피니티풀]\n- 이용요금 : 20,000원(1인/현장결제)\n- 이용시간 : 09:30~12:00 / 13:00~일몰시\n- 운영기간 : 05월01일 ~ 09월30일\n- 위치안내 : 리조트 동 앞 야외(성인/어린이/유아개별풀)\n※ 수영복, 수영모, 아쿠아슈즈를 반드시 착용 후 입수하셔야 합니다 (미착용시 입장불가)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.\n\n[사계절 어린이풀&유아풀]\n- 운영기간 : 온수가동은 기온 23도 이하 및 사전예약 시 개별가동 (7~8월 하절기 제외)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.\n\n[무인이마트24편의점&카페]\n- 먹거리, 음료, 생활용품 판매\n- 운영시간 : 평일 09:00~22:00 / 주말 09:00~00:00\n\n[야외정원&산책로]\n- 운영시간 : 00:00~24:00\n\n[세미나실]\n- 제 2,3 세미나실 이용가능 (40석 규모)\n\n[편의시설 및 서비스]\n- 무료 주차장\n- OTT 서비스 가능(개인 계정 사용)\n- 무료 Wi-Fi\n- 어린이 구명조끼 3벌 대여 무료\n\n[승용차 이용시]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n 도로명 주소 : 인천광역시 강화군 화도면 해안남로 2782-18",
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "인천광역시",
     "city": "강화군",
@@ -157,7 +157,7 @@
         "id": "b25cd2e7-1d02-4b3c-b7b7-2d8ff38bc171",
         "name": "공용 인피니티풀",
         "description": "어린이부터 유아까지 온가족이 즐기는 인피니티풀",
-        "usageGuide": "[공용 인피니티풀]\n- 이용요금 : 20,000원(1인/현장결제)\n- 이용시간 : 09:30~12:00 / 13:00~일몰시\n- 운영기간 : 개장 5월중~폐정 10월중(계절별 상이)\n- 위치안내 : 리조트 동 앞 야외(성인/어린이/유아개별풀)\n※ 수영복, 수영모, 아쿠아슈즈를 반드시 착용 후 입수하셔야 합니다 (미착용시 입장불가)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.\n\n[사계절 어린이풀&유아풀]\n- 운영기간 : 온수가동은 기온 23도 이하 및 사전예약 시 개별가동 (7~8월 하절기 제외)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.",
+        "usageGuide": "[공용 인피니티풀]\n- 이용요금 : 20,000원(1인/현장결제)\n- 이용시간 : 09:30~12:00 / 13:00~일몰시\n- 운영기간 : 05월01일 ~ 09월30일\n- 위치안내 : 리조트 동 앞 야외(성인/어린이/유아개별풀)\n※ 수영복, 수영모, 아쿠아슈즈를 반드시 착용 후 입수하셔야 합니다 (미착용시 입장불가)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.\n\n[사계절 어린이풀&유아풀]\n- 운영기간 : 온수가동은 기온 23도 이하 및 사전예약 시 개별가동 (7~8월 하절기 제외)\n※ 만 12세 이하 어린이 및 노약자 등은 반드시 보호자와 함께 입장하셔야 하며 보호장비를 착용해야 합니다.\n※ 수영장용품은 대여, 판매하지 않습니다.",
         "displayOrder": 2,
         "images": [
           {
@@ -679,18 +679,35 @@
   "rooms": [
     {
       "id": "96efbc38-95e0-47e9-9b4f-4d8798ff9fc7",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 그랜드 1 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Grand 1",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+화장실A+개별수영장+야외정원\n2층 : 침대방A(퀸1+슈퍼싱글1)+침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 198,
+      "sizePyeong": 59.9,
       "baseOccupancy": 5,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -729,6 +746,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -956,22 +974,43 @@
           ]
         }
       ],
-      "displayOrder": 0
+      "displayOrder": 0,
+      "createdAt": "2026-01-08T02:54:52.019Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "821dbb54-f658-4e90-8759-f541c4f15edf",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 프리미엄 2 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Premium 2",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+침대방A(퀸1)+화장실A+개별수영장+야외정원\n2층 : 침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 165,
+      "sizePyeong": 49.9,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1009,6 +1048,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -1187,22 +1227,43 @@
           ]
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-01-08T02:54:51.912Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "d94b51eb-ef4e-493b-a605-e5a14db92a59",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 그랜드 3 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Grand 3",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+화장실A+개별수영장+야외정원\n2층 : 침대방A(퀸1+슈퍼싱글1)+침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 198,
+      "sizePyeong": 59.9,
       "baseOccupancy": 5,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -1241,6 +1302,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -1454,22 +1516,43 @@
           ]
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-01-08T02:54:51.828Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "3ba48f96-0a8e-4e84-828c-c9503be2f0b2",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 프리미엄 4 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Premium 4",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+침대방A(퀸1)+화장실A+개별수영장+야외정원\n2층 : 침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 165,
+      "sizePyeong": 49.9,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1507,6 +1590,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -1678,22 +1762,43 @@
           ]
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-01-08T02:54:51.811Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "0ad1b810-4724-4505-af4c-3106b8b82ce0",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 그랜드 5 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Grand 5",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+화장실A+개별수영장+야외정원\n2층 : 침대방A(퀸1+슈퍼싱글1)+침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 198,
+      "sizePyeong": 59.9,
       "baseOccupancy": 5,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -1732,6 +1837,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -1945,22 +2051,43 @@
           ]
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-01-08T02:54:52.094Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "196520bc-d33f-45b7-8593-6d22f59fc706",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 프리미엄 6 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Premium 6",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+침대방A(퀸1)+화장실A+개별수영장+야외정원\n2층 : 침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 165,
+      "sizePyeong": 49.9,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1998,6 +2125,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -2183,22 +2311,43 @@
           ]
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-01-08T02:54:52.021Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "d043e8a3-730d-42d1-b287-9617dff0f1ef",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 그랜드 7 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Grand 7",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+화장실A+개별수영장+야외정원\n2층 : 침대방A(퀸1+슈퍼싱글1)+침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 198,
+      "sizePyeong": 59.9,
       "baseOccupancy": 5,
       "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -2237,6 +2386,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -2450,22 +2600,43 @@
           ]
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-01-08T02:54:51.921Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "17267bb1-03db-4fd8-b925-a27b6641839f",
+      "propertyId": "8797b834-e96c-4520-90d3-a48a31a2c0db",
+      "propertyName": "강화 엘리야 풀빌라",
       "name": "풀빌라 프리미엄 8 (VIP동 랜덤배정)",
+      "nameEn": "Pool Villa Premium 8",
       "description": "\n",
       "roomInfo": "독채형: \n1층 : 거실+주방+침대방A(퀸1)+화장실A+개별수영장+야외정원\n2층 : 침대방B(퀸1)+화장실B+테라스\n\n[인원추가요금 (1박기준/현장결제)]\n- 0세~성인 1인 30,000원\n- 개별 침구추가 1채 20,000원\n- 영유아 기준인원 포함 및 추가요금 발생/최대인원 초과불가",
       "usageGuide": "",
       "group": null,
       "size": 165,
+      "sizePyeong": 49.9,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "N",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -2503,6 +2674,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "25516fe5-5ad2-411e-aa80-8aeae2931a6c",
       "images": [
         {
           "thumbnail": [
@@ -2688,7 +2860,11 @@
           ]
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2026-01-08T02:54:52.068Z",
+      "updatedAt": "2026-02-23T12:56:50.946Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     }
   ],
   "homepage": {
@@ -2777,7 +2953,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "\n"
+                "description": "\n",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "머무는 순간이 힐링",
@@ -2790,7 +2968,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "\n"
+                "description": "\n",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "오직 8객실만을 위해 마련된 풀빌라",
@@ -2831,7 +3011,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "수영하며 바라보는 오션뷰, 그 자체가 힐링되는 순간"
+                "description": "수영하며 바라보는 오션뷰, 그 자체가 힐링되는 순간",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "객실 미리보기",
@@ -2872,12 +3054,16 @@
                     "isSelected": true
                   }
                 ],
-                "description": "Room Preview"
+                "description": "Room Preview",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
                 "images": [],
-                "description": "ㅇㅇㅇㅇㅇ"
+                "description": "ㅇㅇㅇㅇㅇ",
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -5575,6 +5761,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "f92bf8af-9741-45e6-8928-3f694030afc2"
   }
 }
